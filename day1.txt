@@ -1,1 +1,35 @@
-hey it's sakthi
+    1  pwd
+    2  ls
+    3  echo "hi i'm sakthi" >my_folder/myfile.txt
+    4  mkdir my_folder
+    5  cd my_folder
+    6  ls myfile.txt
+    7  cat my_folder/myfile.txt
+    8  cd ..
+    9  cat my_folder/myfile.txt
+   10  ls my_folder
+   11  ls myfile.txt
+   12  vim file.txt
+   13  ls file.txt
+   14  cat file.txt
+   15  less file.txt
+   16  touch day2.txt
+   17  echo " hey it's sakthi"> day2.txt
+   18  git status
+   19  ls
+   20  cd devops
+   21  git clone https://github.com/sathyaseelan2005/devops.git
+   22  cd devops
+   23  git status
+   24  touch day1.txt
+   25  echo "hey it's sakthi">day1.txt
+   26  git add day1.txt
+   27  git commit -m "Add day1 file"
+   28  git config --global user.name "Sathyaseelan"
+   29  git config --global user.email "sathyaseelan5655@gmail.com"
+   30  git config --global --list
+   31  git commit -m "Add day1 file"
+   32  git push origin main
+   33  git config --global credential.helper store
+   34  ls
+   35  history > day1.txt 
