@@ -33,3 +33,10 @@
    33  git config --global credential.helper store
    34  ls
    35  history > day1.txt 
+   36  cat day1.txt 
+   37  git push origin main
+   38  git status
+   39  git add day1.txt 
+   40  git commit -m "Add day1 file"
+   41  ls
+   42  history > day1.txt
